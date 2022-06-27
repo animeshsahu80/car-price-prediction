@@ -94,7 +94,7 @@ pyxdg==0.25
 pyzmq==19.0.1
 QtPy==1.9.0
 regex==2020.5.7
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.23.0
 s3transfer==0.3.3
 scikit-learn==0.22.2.post1
